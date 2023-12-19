@@ -2,9 +2,9 @@
 title: Exploring Vue.js for Interactive Web Development
 date: 19 Dec 2023
 description: Dive into the world of Vue.js and discover its power in creating interactive and dynamic web applications.
-image: /blogs-img/vue-blog.webp
+image: /blogs-img/blog2.webp
 alt: Exploring Vue.js
-ogImage: /blog-img/vue-blog.webp
+ogImage: /blogs-img/blog2.webp
 tags: ['Vue.js', 'JavaScript', 'Frontend']
 published: true
 ---
